@@ -1,0 +1,4086 @@
+{
+    "Conference": {
+        "ID": 32,
+        "Title": "184rd Semiannual General Conference",
+        "ShortTitle": "October 2014",
+        "Month": 10,
+        "Year": 2014,
+        "Images": [
+            {
+                "ID": "36045",
+                "URL": "http://broadcast2.lds.org/radio/featuresimages/general-conference/general-conference2014-640x396.jpg",
+                "Orientation": "",
+                "Width": 720,
+                "Height": 405,
+                "ImageSize": "Large",
+                "Scalable": 1,
+                "Resizable": 1,
+                "Notes": ""
+            }
+        ]
+    },
+    "Sessions": [
+    {
+        "ID": 178,
+        "Title": "Saturday Morning Session",
+        "ShortTitle": "Saturday Morning",
+      "Talks": [
+          {
+              "ID": 1638,
+              "Title": "The Morning Breaks",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35973",
+                      "URL": "https://i.ytimg.com/vi/rGZeJ2uJ30M/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61694",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1001-the-morning-breaks-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61695",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1001-the-morning-breaks-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61696",
+                      "URL": "https://www.youtube.com/watch?v=rGZeJ2uJ30M",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1639,
+              "Title": "High on the Mountain Top",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35974",
+                      "URL": "https://i.ytimg.com/vi/jSWfYuUB9UU/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61697",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1002-high-on-the-mountain-top-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61698",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1002-high-on-the-mountain-top-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61699",
+                      "URL": "https://www.youtube.com/watch?v=jSWfYuUB9UU",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1640,
+              "Title": "President Thomas S. Monson",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35975",
+                      "URL": "https://i.ytimg.com/vi/g-xuGxCsagQ/hqdefault.jpg",
+                      "Orientation": "",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61700",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61701",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1010-president-thomas-s-monson-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61702",
+                      "URL": "https://www.youtube.com/watch?v=g-xuGxCsagQ",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1641,
+              "Title": "Beautiful Zion, Built Above",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35976",
+                      "URL": "https://i.ytimg.com/vi/fVde_FJxM3o/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61703",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1011-beautiful-zion-built-above-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61704",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1011-beautiful-zion-built-above-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61705",
+                      "URL": "https://www.youtube.com/watch?v=fVde_FJxM3o",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1642,
+              "Title": "President Boyd K. Packer",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35977",
+                      "URL": "https://i.ytimg.com/vi/JNGMrae_IR4/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61706",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61707",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1020-president-boyd-k-packer-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61708",
+                      "URL": "https://www.youtube.com/watch?v=JNGMrae_IR4",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1643,
+              "Title": "Elder Lynn G. Robbins",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35978",
+                      "URL": "https://i.ytimg.com/vi/Bz3s5quxf7E/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61709",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61710",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1030-elder-lynn-g-robbins-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61711",
+                      "URL": "https://www.youtube.com/watch?v=Bz3s5quxf7E",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1644,
+              "Title": "Cheryl A. Esplin",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35979",
+                      "URL": "https://i.ytimg.com/vi/F1K446kYDfY/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61712",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61713",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1040-cheryl-a-esplin-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61714",
+                      "URL": "https://www.youtube.com/watch?v=F1K446kYDfY",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1645,
+              "Title": "Guide Us, O Thou Great Jehovah",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35980",
+                      "URL": "https://i.ytimg.com/vi/57Y1BvBLQ9k/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61715",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1041-guide-us-o-thou-great-jehovah-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61716",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1041-guide-us-o-thou-great-jehovah-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61717",
+                      "URL": "https://www.youtube.com/watch?v=57Y1BvBLQ9k",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1646,
+              "Title": "Elder Chi Hong (Sam) Wong",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35981",
+                      "URL": "https://i.ytimg.com/vi/Z2EmBKPc_SE/hqdefault.jpg",
+                      "Orientation": "",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61718",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61719",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1050-elder-chi-hong-sam-wong-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61720",
+                      "URL": "https://www.youtube.com/watch?v=Z2EmBKPc_SE",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1647,
+              "Title": "Elder D. Todd Christofferson",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35982",
+                      "URL": "https://i.ytimg.com/vi/ITJfFIAnKOk/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61721",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61722",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1060-elder-d-todd-christofferson-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61723",
+                      "URL": "https://www.youtube.com/watch?v=ITJfFIAnKOk",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1648,
+              "Title": "If I Listen with My Heart",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35983",
+                      "URL": "https://i.ytimg.com/vi/_z8L0nPA3Ew/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61724",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1061-if-i-listen-with-my-heart-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61725",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1061-if-i-listen-with-my-heart-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61726",
+                      "URL": "https://www.youtube.com/watch?v=_z8L0nPA3Ew",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1649,
+              "Title": "President Dieter F. Uchtdorf",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35984",
+                      "URL": "https://i.ytimg.com/vi/jX3moFJ5LZ0/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61727",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61728",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1070-president-dieter-f-uchtdorf-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61729",
+                      "URL": "https://www.youtube.com/watch?v=jX3moFJ5LZ0",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1650,
+              "Title": "From All That Dwell Below the Skies",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35985",
+                      "URL": "https://i.ytimg.com/vi/65P9KOFxto0/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61730",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1071-from-all-that-dwell-below-the-skies-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61731",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-1071-from-all-that-dwell-below-the-skies-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61732",
+                      "URL": "https://www.youtube.com/watch?v=65P9KOFxto0",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          }
+      ]
+    },
+    {
+        "ID": 179,
+        "Title": "Saturday Afternoon Session",
+        "ShortTitle": "Saturday Afternoon",
+        "Talks": [
+            {
+                "ID": 1651,
+                "Title": "Arise, O God, and Shine",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35986",
+                        "URL": "https://i.ytimg.com/vi/8ri2MCi9Fqk/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61733",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2001-arise-o-god-and-shine-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61734",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2001-arise-o-god-and-shine-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61735",
+                        "URL": "https://www.youtube.com/watch?v=8ri2MCi9Fqk",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1652,
+                "Title": "The Sustaining of Church Officers",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35987",
+                        "URL": "https://i.ytimg.com/vi/pob0AFKwvvM/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61736",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61737",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2010-the-sustaining-of-church-officers-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61738",
+                        "URL": "https://www.youtube.com/watch?v=pob0AFKwvvM",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1653,
+                "Title": "I Know That My Redeemer Lives",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35988",
+                        "URL": "https://i.ytimg.com/vi/0HdoFtc1wLA/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61739",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2011-i-know-that-my-redeemer-lives-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61740",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2011-i-know-that-my-redeemer-lives-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61741",
+                        "URL": "https://www.youtube.com/watch?v=0HdoFtc1wLA",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1654,
+                "Title": "Elder Dallin H. Oaks",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35989",
+                        "URL": "https://i.ytimg.com/vi/KltwCy9VTGA/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61742",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61743",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2020-elder-dallin-h-oaks-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61744",
+                        "URL": "https://www.youtube.com/watch?v=KltwCy9VTGA",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1655,
+                "Title": "Elder Neil L. Andersen",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35990",
+                        "URL": "https://i.ytimg.com/vi/qqAzNHccls8/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61745",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61746",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2030-elder-neil-l-andersen-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61747",
+                        "URL": "https://www.youtube.com/watch?v=qqAzNHccls8",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1656,
+                "Title": "Tad R. Callister",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35991",
+                        "URL": "https://i.ytimg.com/vi/DwlTtDHBBec/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61748",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61749",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2040-tad-r-callister-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61750",
+                        "URL": "https://www.youtube.com/watch?v=DwlTtDHBBec",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1657,
+                "Title": "Redeemer of Israel",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35992",
+                        "URL": "https://i.ytimg.com/vi/_myg1vd1Th4/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61751",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2041-redeemer-of-israel-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61752",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2041-redeemer-of-israel-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61753",
+                        "URL": "https://www.youtube.com/watch?v=_myg1vd1Th4",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1658,
+                "Title": "Elder Jorg Klebingat",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35993",
+                        "URL": "https://i.ytimg.com/vi/jc61c6geUtU/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61754",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61755",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2050-elder-jorg-klebingat-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61756",
+                        "URL": "https://www.youtube.com/watch?v=jc61c6geUtU",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1659,
+                "Title": "Elder Eduardo Gavarret",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35994",
+                        "URL": "https://i.ytimg.com/vi/YkcoGBqib_w/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61757",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61758",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2060-elder-eduardo-gavarret-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61759",
+                        "URL": "https://www.youtube.com/watch?v=YkcoGBqib_w",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1660,
+                "Title": "Elder Jeffrey R. Holland",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35995",
+                        "URL": "https://i.ytimg.com/vi/bdM9AOuqt2U/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61760",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61761",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2070-elder-jeffrey-r-holland-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61762",
+                        "URL": "https://www.youtube.com/watch?v=bdM9AOuqt2U",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1661,
+                "Title": "Elder L. Tom Perry",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35996",
+                        "URL": "https://i.ytimg.com/vi/IiHkfZDQWcA/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61763",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61764",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2080-elder-l-tom-perry-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61765",
+                        "URL": "https://www.youtube.com/watch?v=IiHkfZDQWcA",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1662,
+                "Title": "Abide with Me; 'Tis Eventide",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "35997",
+                        "URL": "https://i.ytimg.com/vi/83Wb4JASYY0/hqdefault.jpg",
+                        "Orientation": "",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61766",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2081-abide-with-me-tis-eventide-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61767",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-2081-abide-with-me-tis-eventide-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61768",
+                        "URL": "https://www.youtube.com/watch?v=83Wb4JASYY0",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            }
+        ]
+    },
+    {
+        "ID": 180,
+        "Title": "Priesthood Session",
+        "ShortTitle": "Priesthood Session",
+      "Talks": [
+          {
+              "ID": 1663,
+              "Title": "Rise Up, O Men of God",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35998",
+                      "URL": "https://i.ytimg.com/vi/jxh6FbMNT2Q/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61769",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3001-rise-up-o-men-of-god-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61770",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3001-rise-up-o-men-of-god-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61771",
+                      "URL": "https://www.youtube.com/watch?v=jxh6FbMNT2Q",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1664,
+              "Title": "Missionary Medley",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "35999",
+                      "URL": "https://i.ytimg.com/vi/-4Ike3DR7e4/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61772",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3002-missionary-medley-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61773",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3002-missionary-medley-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61774",
+                      "URL": "https://www.youtube.com/watch?v=-4Ike3DR7e4",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1665,
+              "Title": "Elder Quentin L. Cook",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36000",
+                      "URL": "https://i.ytimg.com/vi/LeDYq76bWLo/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61775",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61776",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3010-elder-quentin-l-cook-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61777",
+                      "URL": "https://www.youtube.com/watch?v=LeDYq76bWLo",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1666,
+              "Title": "Elder Craig C. Christensen",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36001",
+                      "URL": "https://i.ytimg.com/vi/beBsk1DchkU/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61778",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61779",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3020-elder-craig-c-christensen-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61780",
+                      "URL": "https://www.youtube.com/watch?v=beBsk1DchkU",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1667,
+              "Title": "Bishop Dean M. Davies",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36002",
+                      "URL": "https://i.ytimg.com/vi/JFESqWNCPT8/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61781",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61782",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3030-bishop-dean-m-davies-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61783",
+                      "URL": "https://www.youtube.com/watch?v=JFESqWNCPT8",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1668,
+              "Title": "We Thank Thee, O God, for a Prophet",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36003",
+                      "URL": "https://i.ytimg.com/vi/uqWVV6aIE28/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61784",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3031-we-thank-thee-o-god-for-a-prophet-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61785",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3031-we-thank-thee-o-god-for-a-prophet-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61786",
+                      "URL": "https://www.youtube.com/watch?v=uqWVV6aIE28",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1669,
+              "Title": "President Dieter F. Uchtdorf",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36004",
+                      "URL": "https://i.ytimg.com/vi/nwaTLir6od4/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61787",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61788",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3040-president-dieter-f-uchtdorf-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61789",
+                      "URL": "https://www.youtube.com/watch?v=nwaTLir6od4",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1670,
+              "Title": "President Henry B. Eyring",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36005",
+                      "URL": "https://i.ytimg.com/vi/ZVL-b2cUpkY/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61790",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61791",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3050-president-henry-b-eyring-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61792",
+                      "URL": "https://www.youtube.com/watch?v=ZVL-b2cUpkY",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1671,
+              "Title": "President Thomas S. Monson",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36006",
+                      "URL": "https://i.ytimg.com/vi/NLx_YGOIaes/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61793",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61794",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3060-president-thomas-s-monson-64k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61795",
+                      "URL": "https://www.youtube.com/watch?v=NLx_YGOIaes",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          },
+          {
+              "ID": 1672,
+              "Title": "Ye Elders of Israel",
+              "Summary": "",
+              "Tags": "",
+              "Images": [
+                  {
+                      "ID": "36007",
+                      "URL": "https://i.ytimg.com/vi/9XRMGyvEuOg/hqdefault.jpg",
+                      "Orientation": "Landscape",
+                      "Width": 480,
+                      "Height": 360,
+                      "ImageSize": "Medium",
+                      "Scalable": 1,
+                      "Resizable": 1,
+                      "Notes": ""
+                  }
+              ],
+              "Media": [
+                  {
+                      "ID": "61796",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3061-ye-elders-of-israel-360p-eng.mp4?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "MP4",
+                      "AudioCodec": "",
+                      "VideoCodec": "H264"
+                  },
+                  {
+                      "ID": "61797",
+                      "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-3061-ye-elders-of-israel-256k-eng.mp3?download=true",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 0,
+                      "Duration": 0,
+                      "MediaType": "Audio",
+                      "MediaContainer": "MP3",
+                      "AudioCodec": "MP3",
+                      "VideoCodec": ""
+                  },
+                  {
+                      "ID": "61798",
+                      "URL": "https://www.youtube.com/watch?v=9XRMGyvEuOg",
+                      "MasterCatalogID": "",
+                      "MasterCatalogVersion": "0",
+                      "Stream": 1,
+                      "Duration": 0,
+                      "MediaType": "Video",
+                      "MediaContainer": "YouTube",
+                      "AudioCodec": "",
+                      "VideoCodec": ""
+                  }
+              ],
+              "Persons": []
+          }
+      ]
+    },
+    {
+        "ID": 181,
+        "Title": "Sunday Morning Session",
+        "ShortTitle": "Sunday Morning",
+    "Talks": [
+        {
+            "ID": 1673,
+            "Title": "Sing Praise to Him",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36008",
+                    "URL": "https://i.ytimg.com/vi/mJ2VEl1nU5Y/hqdefault.jpg",
+                    "Orientation": "",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61799",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4001-sing-praise-to-him-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61800",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4001-sing-praise-to-him-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61801",
+                    "URL": "https://www.youtube.com/watch?v=mJ2VEl1nU5Y",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1674,
+            "Title": "Praise the Lord with Heart and Voice",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36009",
+                    "URL": "https://i.ytimg.com/vi/r0TsD5Mu7v0/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61802",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4002-praise-the-lord-with-heart-and-voice-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61803",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4002-praise-the-lord-with-heart-and-voice-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61804",
+                    "URL": "https://www.youtube.com/watch?v=r0TsD5Mu7v0",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1675,
+            "Title": "Praise to the Man",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36010",
+                    "URL": "https://i.ytimg.com/vi/dxbNxkqG5y0/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61805",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4003-praise-to-the-man-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61806",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4003-praise-to-the-man-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61807",
+                    "URL": "https://www.youtube.com/watch?v=dxbNxkqG5y0",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1676,
+            "Title": "President Henry B. Eyring",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36011",
+                    "URL": "https://i.ytimg.com/vi/gb5GPr4QWss/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61808",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61809",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4010-president-henry-b-eyring-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61810",
+                    "URL": "https://www.youtube.com/watch?v=gb5GPr4QWss",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1677,
+            "Title": "Elder Russell M. Nelson",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36012",
+                    "URL": "https://i.ytimg.com/vi/hOgbaq-8f8c/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61811",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61812",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4020-elder-russell-m-nelson-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61813",
+                    "URL": "https://www.youtube.com/watch?v=hOgbaq-8f8c",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1678,
+            "Title": "Carol F. McConkie",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36013",
+                    "URL": "https://i.ytimg.com/vi/Unq8PFr5zgI/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61814",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61815",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4030-carol-f-mcconkie-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61816",
+                    "URL": "https://www.youtube.com/watch?v=Unq8PFr5zgl",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1679,
+            "Title": "Come, Ye Children of the Lord",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36014",
+                    "URL": "https://i.ytimg.com/vi/otS5G_VAUP8/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61817",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4031-come-ye-children-of-the-lord-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61818",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4031-come-ye-children-of-the-lord-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61819",
+                    "URL": "https://www.youtube.com/watch?v=otS5G_VAUP8",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1680,
+            "Title": "Elder Robert D. Hales",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36015",
+                    "URL": "https://i.ytimg.com/vi/kjhNkceCdiU/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61820",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61821",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4040-elder-robert-d-hales-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61822",
+                    "URL": "https://www.youtube.com/watch?v=kjhNkceCdiU",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1681,
+            "Title": "Elder James J. Hamula",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36016",
+                    "URL": "https://i.ytimg.com/vi/6Dnj-qARixk/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61823",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61824",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4050-elder-james-j-hamula-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61825",
+                    "URL": "https://www.youtube.com/watch?v=6Dnj-qARixk",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1682,
+            "Title": "Softly and Tenderly",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36017",
+                    "URL": "https://i.ytimg.com/vi/yhY5ybn60pc/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61826",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4051-softly-and-tenderly-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61827",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4051-softly-and-tenderly-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61828",
+                    "URL": "https://www.youtube.com/watch?v=yhY5ybn60pc",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1683,
+            "Title": "President Thomas S. Monson",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36018",
+                    "URL": "https://i.ytimg.com/vi/1-uOPfW4Uts/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61829",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61830",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4060-president-thomas-s-monson-64k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61831",
+                    "URL": "https://www.youtube.com/watch?v=1-uOPfW4Uts",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        },
+        {
+            "ID": 1684,
+            "Title": "How Firm a Foundation",
+            "Summary": "",
+            "Tags": "",
+            "Images": [
+                {
+                    "ID": "36019",
+                    "URL": "https://i.ytimg.com/vi/IUcOEfxMKR0/hqdefault.jpg",
+                    "Orientation": "Landscape",
+                    "Width": 480,
+                    "Height": 360,
+                    "ImageSize": "Medium",
+                    "Scalable": 1,
+                    "Resizable": 1,
+                    "Notes": ""
+                }
+            ],
+            "Media": [
+                {
+                    "ID": "61832",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4061-how-firm-a-foundation-360p-eng.mp4?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "MP4",
+                    "AudioCodec": "",
+                    "VideoCodec": "H264"
+                },
+                {
+                    "ID": "61833",
+                    "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-4061-how-firm-a-foundation-256k-eng.mp3?download=true",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 0,
+                    "Duration": 0,
+                    "MediaType": "Audio",
+                    "MediaContainer": "MP3",
+                    "AudioCodec": "MP3",
+                    "VideoCodec": ""
+                },
+                {
+                    "ID": "61834",
+                    "URL": "https://www.youtube.com/watch?v=IUcOEfxMKR0",
+                    "MasterCatalogID": "",
+                    "MasterCatalogVersion": "0",
+                    "Stream": 1,
+                    "Duration": 0,
+                    "MediaType": "Video",
+                    "MediaContainer": "YouTube",
+                    "AudioCodec": "",
+                    "VideoCodec": ""
+                }
+            ],
+            "Persons": []
+        }
+    ],
+    },
+    {
+        "ID": 182,
+        "Title": "Sunday Afternoon Session",
+        "ShortTitle": "Sunday Afternoon",
+        "Talks": [
+            {
+                "ID": 1685,
+                "Title": "Lo, the Mighty God Appearing",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36020",
+                        "URL": "https://i.ytimg.com/vi/U--Fo6oC6Xo/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61835",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5001-lo-the-mighty-god-appearing-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61836",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5001-lo-the-mighty-god-appearing-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61837",
+                        "URL": "https://www.youtube.com/watch?v=U--Fo6oC6Xo",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1686,
+                "Title": "Elder M. Russell Ballard",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36021",
+                        "URL": "https://i.ytimg.com/vi/-WqVYrpYqdM/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61838",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61839",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5010-elder-m-russell-ballard-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61840",
+                        "URL": "https://www.youtube.com/watch?v=-WqVYrpYqdM",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1687,
+                "Title": "Elder Richard G. Scott",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36022",
+                        "URL": "https://i.ytimg.com/vi/wFIN_YLstMw/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61841",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61842",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5020-elder-richard-g-scott-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61843",
+                        "URL": "https://www.youtube.com/watch?v=wFIN_YLstMw",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1688,
+                "Title": "Elder Carlos A. Godoy",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36023",
+                        "URL": "https://i.ytimg.com/vi/z9vetEekkh0/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61844",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61845",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5030-elder-carlos-a-godoy-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61846",
+                        "URL": "https://www.youtube.com/watch?v=z9vetEekkh0",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1689,
+                "Title": "Count Your Blessings",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36024",
+                        "URL": "https://i.ytimg.com/vi/f7TBB9rHjMk/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61847",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5031-count-your-blessings-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61848",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5031-count-your-blessings-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61849",
+                        "URL": "https://www.youtube.com/watch?v=f7TBB9rHjMk",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1690,
+                "Title": "Elder Allan F. Packer",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36025",
+                        "URL": "https://i.ytimg.com/vi/78XP33FpY7U/hqdefault.jpg",
+                        "Orientation": "",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61850",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61851",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5040-elder-allan-f-packer-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61852",
+                        "URL": "https://www.youtube.com/watch?v=78XP33FpY7U",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1691,
+                "Title": "Elder Hugo E. Martinez",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36026",
+                        "URL": "https://i.ytimg.com/vi/fnCH2jKiepY/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61853",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61854",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5050-elder-hugo-e-martinez-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61855",
+                        "URL": "https://www.youtube.com/watch?v=fnCH2jKiepY",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1692,
+                "Title": "I Am a Child of God",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36027",
+                        "URL": "https://i.ytimg.com/vi/-ea-3Icnnl4/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61856",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5051-i-am-a-child-of-god-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61857",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5051-i-am-a-child-of-god-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61858",
+                        "URL": "https://www.youtube.com/watch?v=-ea-3Icnnl4",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1693,
+                "Title": "Elder Larry S. Kacher",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36028",
+                        "URL": "https://i.ytimg.com/vi/PW3t595vdsc/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61859",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61860",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5060-elder-larry-s-kacher-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61861",
+                        "URL": "https://www.youtube.com/watch?v=PW3t595vdsc",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1694,
+                "Title": "Elder David A. Bednar",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36029",
+                        "URL": "https://i.ytimg.com/vi/eBzKAFF4Sdc/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61862",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61863",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5070-elder-david-a-bednar-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61864",
+                        "URL": "https://www.youtube.com/watch?v=eBzKAFF4Sdc",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1695,
+                "Title": "President Thomas S. Monson",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36030",
+                        "URL": "https://i.ytimg.com/vi/0hMrqV6glLY/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61865",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61866",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5080-president-thomas-s-monson-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61867",
+                        "URL": "https://www.youtube.com/watch?v=0hMrqV6glLY",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1696,
+                "Title": "We Ever Pray for Thee",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36031",
+                        "URL": "https://i.ytimg.com/vi/IIG-hHXkzPs/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61868",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5081-we-ever-pray-for-thee-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61869",
+                        "URL": "http://media2.ldscdn.org/assets/general-conference/october-2014-general-conference/2014-10-5081-we-ever-pray-for-thee-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61870",
+                        "URL": "https://www.youtube.com/watch?v=IIG-hHXkzPs",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            }
+        ],
+    },
+    {
+        "ID": 183,
+        "Title": "General Women’s Session",
+        "ShortTitle": "General Women’s Session",
+        "Talks": [
+            {
+                "ID": 1697,
+                "Title": "On This Day of Joy and Gladness",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36032",
+                        "URL": "https://i.ytimg.com/vi/IN2cVc8IIVo/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61871",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0001-on-this-day-of-joy-and-gladness-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61872",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0001-on-this-day-of-joy-and-gladness-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61873",
+                        "URL": "https://www.youtube.com/watch?v=IN2cVc8IIVo",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1698,
+                "Title": "I Love to See the Temple",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36033",
+                        "URL": "https://i.ytimg.com/vi/nrYubtctOCY/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61874",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0002-i-love-to-see-the-temple-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61875",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0002-i-love-to-see-the-temple-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61876",
+                        "URL": "https://www.youtube.com/watch?v=nrYubtctOCY",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1699,
+                "Title": "Prepared in a Manner That Never Had Been Known",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36034",
+                        "URL": "https://i.ytimg.com/vi/y1WSsG7efM4/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61877",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0010-linda-k-burton-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61878",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0010-linda-k-burton-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61879",
+                        "URL": "https://www.youtube.com/watch?v=y1WSsG7efM4",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": [
+                    {
+                        "ID": "2519",
+                        "Name": "By Linda K. Burton",
+                        "Bio": ""
+                    }
+                ]
+            },
+            {
+                "ID": 1700,
+                "Title": "Hymn Medley",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36035",
+                        "URL": "https://i.ytimg.com/vi/rR2IGo_1qcI/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61880",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0011-hymn-medley-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61881",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0011-hymn-medley-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61882",
+                        "URL": "https://www.youtube.com/watch?v=rR2IGo_1qcI",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1701,
+                "Title": "Covenant Daughters of God",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36036",
+                        "URL": "https://i.ytimg.com/vi/3AFn5KZOfuo/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61883",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0020-jean-a-stevens-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61884",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0020-jean-a-stevens-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61885",
+                        "URL": "https://www.youtube.com/watch?v=3AFn5KZOfuo",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1702,
+                "Title": "Video Presentation: The Holy Temple",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36037",
+                        "URL": "https://i.ytimg.com/vi/UxWnCIj7e2A/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61886",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61887",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0030-video-presentation-the-holy-temple-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61888",
+                        "URL": "https://www.youtube.com/watch?v=UxWnCIj7e2A",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1703,
+                "Title": "Sharing Your Light",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36038",
+                        "URL": "https://i.ytimg.com/vi/6Hx8293F7yM/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61889",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0040-neill-f-marriott-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61890",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0040-neill-f-marriott-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61891",
+                        "URL": "https://www.youtube.com/watch?v=6Hx8293F7yM",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": [
+                    {
+                        "ID": "2520",
+                        "Name": "By Neill F. Marriott",
+                        "Bio": ""
+                    }
+                ]
+            },
+            {
+                "ID": 1704,
+                "Title": "I Am a Child of God",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36039",
+                        "URL": "https://i.ytimg.com/vi/Bb3zI5_UTjo/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61892",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0041-i-am-a-child-of-god-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61893",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0041-i-am-a-child-of-god-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61894",
+                        "URL": "https://www.youtube.com/watch?v=Bb3zI5_UTjo",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            },
+            {
+                "ID": 1705,
+                "Title": "Living the Gospel Joyful",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36040",
+                        "URL": "https://i.ytimg.com/vi/GgUQ9fapOjc/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61895",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0050-president-dieter-f-uchtdorf-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61896",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0050-president-dieter-f-uchtdorf-64k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61897",
+                        "URL": "https://www.youtube.com/watch?v=GgUQ9fapOjc",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": [
+                    {
+                        "ID": "2521",
+                        "Name": "By President Dieter F. Uchtdorf",
+                        "Bio": ""
+                    }
+                ]
+            },
+            {
+                "ID": 1706,
+                "Title": "Let Zion in Her Beauty Rise",
+                "Summary": "",
+                "Tags": "",
+                "Images": [
+                    {
+                        "ID": "36041",
+                        "URL": "https://i.ytimg.com/vi/tIt-bwcRrlk/hqdefault.jpg",
+                        "Orientation": "Landscape",
+                        "Width": 480,
+                        "Height": 360,
+                        "ImageSize": "Medium",
+                        "Scalable": 1,
+                        "Resizable": 1,
+                        "Notes": ""
+                    }
+                ],
+                "Media": [
+                    {
+                        "ID": "61898",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0051-let-zion-in-her-beauty-rise-360p-eng.mp4?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "MP4",
+                        "AudioCodec": "",
+                        "VideoCodec": "H264"
+                    },
+                    {
+                        "ID": "61899",
+                        "URL": "http://media2.ldscdn.org/assets/general-womens-meeting/september-2014-general-womens-meeting/2014-09-0051-let-zion-in-her-beauty-rise-256k-eng.mp3?download=true",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 0,
+                        "Duration": 0,
+                        "MediaType": "Audio",
+                        "MediaContainer": "MP3",
+                        "AudioCodec": "MP3",
+                        "VideoCodec": ""
+                    },
+                    {
+                        "ID": "61900",
+                        "URL": "https://www.youtube.com/watch?v=tIt-bwcRrlk",
+                        "MasterCatalogID": "",
+                        "MasterCatalogVersion": "0",
+                        "Stream": 1,
+                        "Duration": 0,
+                        "MediaType": "Video",
+                        "MediaContainer": "YouTube",
+                        "AudioCodec": "",
+                        "VideoCodec": ""
+                    }
+                ],
+                "Persons": []
+            }
+        ]
+      }
+    ]
+}
