@@ -7,7 +7,7 @@ $("#query").keyup(function() {
     talks = "<ul>";
     $.each(data, function(i, item) {
       talks += "<li>" + "<span class=\"title\">" + data[i].Title + "</span>";
-      talks += "<a href=\"" + data[i].Media[2].URL;
+      talks += "<a href=\"" + data[i].Media[2].URL + ">";
       talks += "<img src=\"" + data[i].Images[0].URL + "/>" + "</a" + "</li>";
     });
     $("#returnStuff").html(talks);
