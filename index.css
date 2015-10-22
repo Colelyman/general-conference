@@ -1,0 +1,53 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+#navbar {
+  padding: 30px 0px 10px 0px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.3em;
+  color: white;
+  background-color: #4BD1C8;
+}
+
+#searchbar {
+  padding: 0px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.3em;
+  border-bottom: 1px solid #BFBFBF;
+}
+
+#query {
+  width: 300px;
+  padding: 5px 1px;
+  font-size: 1em;
+  margin-left: 10px;
+}
+
+#centerStuff {
+  display: inline-block;
+  width: 500px;
+  text-align: center;
+}
+
+#returnStuff {
+  text-align: center;
+}
+
+.title {
+  display: inline-block;
+  clear: both;
+  font-size: 1.2em;
+  margin: 40px 0px;
+}
