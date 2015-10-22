@@ -6,7 +6,7 @@ var talks = require('./talkList.json');
 http.createServer(function (req, res) {
   var urlObj = url.parse(req.url, true, false); // incoming url
   // required to prevent CORS error
-  res.setHeader('Access-Control-Allow-Origin', 'http://colelyman.com');
+  res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
   res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
   res.setHeader('Access-Control-Allow-Credentials', true);
@@ -21,7 +21,7 @@ http.createServer(function (req, res) {
       var talkList = session.Talks;
       for(var j = 0; j < talkList.length; j++) {
         if(regEx.test(talkList[j].Title)) {
-          console.log(talkList[j].Title + " matched with: " + regEx);
+          //console.log(talkList[j].Title + " matched with: " + regEx);
           results.push(talkList[j]);
         }
       }
